@@ -1,4 +1,4 @@
-**Geometry Nodes**
+*Geometry Nodes*
 
 Bisa dianggap sebagai versi lanjutan dari fitur Modifiers.
 
